@@ -101,7 +101,7 @@
       });            
     }
   </script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4cW1ZqwLT6cWV6o792XNc3oh6z6tDmmY&callback=initMap"
+  <script src="https://maps.googleapis.com/maps/api/js?key="add your google key"=initMap"
         async defer> //Google Map API Key - Maps JavaScript API</script> 
 
 </body>    
