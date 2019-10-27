@@ -52,9 +52,6 @@ also can show a picture of interior view
 * php-apache server (http://www.wampserver.com/en/ , https://www.apachefriends.org/tr/index.html)
 * browser or webview 
 
-# To Check My Other Codes (Swift)
-https://github.com/SandokanSaruhan
-
 ![](Demo_2x.gif)
 
 
