@@ -1,6 +1,8 @@
 # Mercedes Benz Api Test APP - PHP 5.6.40 - JS 1.7 - Bootstrap 4.3.1
 This is a simple App for usage and communicate with the Mercedes Benz One API. 
 
+![](Demo_2X.gif)
+
 - This APP shows information about the vehicle 
 (charging, mileage, tire pressures, fuel level, location, heating, door positions and door status) and 
 let you act on the vehicle (e.g. lock/unlock doors)
@@ -50,7 +52,7 @@ also can show a picture of interior view
 
 # Requirements
 * php-apache server (http://www.wampserver.com/en/ , https://www.apachefriends.org/tr/index.html)
-* browser or webview 
+* browser or webview
 
 ![](Demo_2x.gif)
 
